@@ -17,7 +17,7 @@
    <img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCIamLong&layout=compact&text_color=daf7dc&bg_color=171717&border_color=262626">
 </p>
 
-I am a passionate Full Stack MERN Web Developer is eager to contribute to team success. Motivated to learn, grow, and excel in the Software Industry.
+My commitment to excellence and attention to detail fuel my ability to turn ideas into reality through efficient and scalable code. Whether it's backend architecture, frontend design, or full-stack development, I am dedicated to contributing meaningfully to every project I undertake.
 
 -   🌍  I'm based in Da Nang City
 -   🖥️  See my portfolio at [My Portfolio](https://my-portfolio-long-hoang.netlify.app/)
