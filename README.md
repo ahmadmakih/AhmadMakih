@@ -7,7 +7,7 @@
 	<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=20&pause=1000&color=4F46E5&background=58FF4A00&center=true&random=false&width=600&lines=Keep+Learning%2C+Keep+Doing;Planned+project+are+the+main+ones;From+Indonesia%2C+INA" alt="Typing SVG" /></a>
 	</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=BCIamLong&color=green&style=flat-square" alt="BCIamLong" /> </p></p>
+<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=BCIamLong&color=green&style=flat-square" alt="BCIamLong" /> </p></p> -->
 </h2>
 <!-- -------------------- -->
 <!-- <img align="right" alt="Coding" width="340" style="border-radius:20px;"
