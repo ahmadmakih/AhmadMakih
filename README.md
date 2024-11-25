@@ -13,9 +13,9 @@
 <!-- <img align="right" alt="Coding" width="340" style="border-radius:20px;"
 	src="https://i.ibb.co/2ssF0C8/ok123.gif"> -->
 
-<p align="center"> 
+/** <p align="center"> 
    <img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCIamLong&layout=compact&text_color=daf7dc&bg_color=171717&border_color=262626">
-</p>
+</p> **/
 
 My commitment to excellence and attention to detail fuel my ability to turn ideas into reality through efficient and scalable code. Whether it's backend architecture, frontend design, or full-stack development, I am dedicated to contributing meaningfully to every project I undertake.
 
