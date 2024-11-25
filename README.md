@@ -37,6 +37,7 @@ My commitment to excellence and attention to detail fuel my ability to turn idea
 <a href="#"><img src="https://img.shields.io/badge/-Vue.js-%234FC08D?style=badge&logo=vue.js&logoColor=FFFFFF&labelColor=%234FC08D&color=%23F7F7F7" alt="Vue.js"></a>
 <a href="#"><img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=badge&logo=typescript&logoColor=FFFFFF&labelColor=%23007ACC&color=%23F7F7F7" alt="TypeScript"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Next.js-%23000000?style=badge&logo=next.js&logoColor=FFFFFF&labelColor=%23000000&color=%23F7F7F7" alt="Next.js"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Flutter-%2302569B?style=badge&logo=flutter&logoColor=FFFFFF&labelColor=%2302569B&color=%23F7F7F7" alt="Flutter"></a>
 </div>
 <div>
 <a href="#"><img src="https://img.shields.io/badge/-Nest.js-%23E0234E?style=badge&logo=nestjs&logoColor=FFFFFF&labelColor=%23E0234E&color=%23F7F7F7" alt="Nest.js"></a>
@@ -45,8 +46,6 @@ My commitment to excellence and attention to detail fuel my ability to turn idea
 <a href="#"><img src="https://img.shields.io/badge/-Node.js-%23339933?style=badge&logo=node.js&logoColor=FFFFFF&labelColor=%23339933&color=%23F7F7F7" alt="Node.js"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Express.js-%23000000?style=badge&logo=express&logoColor=FFFFFF&labelColor=%23000000&color=%23F7F7F7" alt="Express.js"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Golang-%2300ADD8?style=badge&logo=go&logoColor=FFFFFF&labelColor=%2300ADD8&color=%23F7F7F7" alt="Golang"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Flutter-%2302569B?style=badge&logo=flutter&logoColor=FFFFFF&labelColor=%2302569B&color=%23F7F7F7" alt="Flutter"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Dart-%230175C2?style=badge&logo=dart&logoColor=FFFFFF&labelColor=%230175C2&color=%23F7F7F7" alt="Dart"></a>
 </div><div>
 <a href="#"><img src="https://img.shields.io/badge/-Firebase-%23FFCA28?style=badge&logo=firebase&logoColor=000000&labelColor=%23FFCA28&color=%23F7F7F7" alt="Firebase"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Vite-%23646CFF?style=badge&logo=vite&logoColor=FFFFFF&labelColor=%23646CFF&color=%23F7F7F7" alt="Vite"></a>
