@@ -14,7 +14,7 @@
 	src="https://i.ibb.co/2ssF0C8/ok123.gif"> -->
 
 <p align="center"> 
-   <img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadMakih&layout=compact&text_color=daf7dc&bg_color=171717&border_color=262626">
+   <img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmakih&layout=compact&text_color=daf7dc&bg_color=171717&border_color=262626">
 </p>
 
 My commitment to excellence and attention to detail fuel my ability to turn ideas into reality through efficient and scalable code. Whether it's backend architecture, frontend design, or full-stack development, I am dedicated to contributing meaningfully to every project I undertake.
@@ -62,11 +62,8 @@ My commitment to excellence and attention to detail fuel my ability to turn idea
 
 
 <div align="left">
-  <a href="https://github.com/AhmadMakih">
+  <a href="https://github.com/ahmadmakih">
     <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-<a href="https://codesandbox.io/u/longhoang2111">
-    <img src="https://img.shields.io/badge/CodeSandbox-111827?style=for-the-badge&logo=codesandbox&logoColor=f9fafb&color=262626" alt="CodeSandbox">
 </a>
 </div>
 
