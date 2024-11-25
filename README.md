@@ -40,7 +40,7 @@ My commitment to excellence and attention to detail fuel my ability to turn idea
 <a href="#"><img src="https://img.shields.io/badge/-Flutter-%2302569B?style=badge&logo=flutter&logoColor=FFFFFF&labelColor=%2302569B&color=%23F7F7F7" alt="Flutter"></a>
 </div>
 </div>
-<div align="left">
+<div align="right">
 <div>
 <a href="#"><img src="https://img.shields.io/badge/-Nest.js-%23E0234E?style=badge&logo=nestjs&logoColor=FFFFFF&labelColor=%23E0234E&color=%23F7F7F7" alt="Nest.js"></a>
 <a href="#"><img src="https://img.shields.io/badge/-CodeIgniter-%23EF4223?style=badge&logo=codeigniter&logoColor=FFFFFF&labelColor=%23EF4223&color=%23F7F7F7" alt="CodeIgniter"></a>
