@@ -7,14 +7,14 @@
 	<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=20&pause=1000&color=4F46E5&background=58FF4A00&center=true&random=false&width=600&lines=Keep+Learning%2C+Keep+Doing;Planned+project+are+the+main+ones;From+Indonesia%2C+INA" alt="Typing SVG" /></a>
 	</p>
-<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=BCIamLong&color=green&style=flat-square" alt="BCIamLong" /> </p></p> -->
+<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=AhmadMakih&color=green&style=flat-square" alt="AhmadMakih" /> </p></p> -->
 </h2>
 <!-- -------------------- -->
 <!-- <img align="right" alt="Coding" width="340" style="border-radius:20px;"
 	src="https://i.ibb.co/2ssF0C8/ok123.gif"> -->
 
 <p align="center"> 
-   <img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCIamLong&layout=compact&text_color=daf7dc&bg_color=171717&border_color=262626">
+   <img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadMakih&layout=compact&text_color=daf7dc&bg_color=171717&border_color=262626">
 </p>
 
 My commitment to excellence and attention to detail fuel my ability to turn ideas into reality through efficient and scalable code. Whether it's backend architecture, frontend design, or full-stack development, I am dedicated to contributing meaningfully to every project I undertake.
@@ -62,7 +62,7 @@ My commitment to excellence and attention to detail fuel my ability to turn idea
 
 
 <div align="left">
-  <a href="https://github.com/BCIamLong">
+  <a href="https://github.com/AhmadMakih">
     <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 <a href="https://codesandbox.io/u/longhoang2111">
