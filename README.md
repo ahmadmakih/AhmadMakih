@@ -14,8 +14,7 @@
 	src="https://i.ibb.co/2ssF0C8/ok123.gif"> -->
 
 <p align="center"> 
-   <div align="right" >
-   aaaaaaaaaaaaaaaaaaaa</div>
+   <img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmakih&layout=compact&text_color=daf7dc&bg_color=171717&border_color=262626">
 </p>
 
 My commitment to excellence and attention to detail fuel my ability to turn ideas into reality through efficient and scalable code.
@@ -54,8 +53,10 @@ My commitment to excellence and attention to detail fuel my ability to turn idea
 -   <a href="#"><img src="https://img.shields.io/badge/-Express.js-%23000000?style=badge&logo=express&logoColor=FFFFFF&labelColor=%23000000&color=%23F7F7F7" alt="Express.js"></a>
 -   <a href="#"><img src="https://img.shields.io/badge/-Golang-%2300ADD8?style=badge&logo=go&logoColor=FFFFFF&labelColor=%2300ADD8&color=%23F7F7F7" alt="Golang"></a>
 <p>
-	<p align="center"> 
-   <img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmakih&layout=compact&text_color=daf7dc&bg_color=171717&border_color=262626">
+
+<p align="center"> 
+   <div align="right" >
+   aaaaaaaaaaaaaaaaaaaa</div>
 </p>
 <!-- Bagian Tengah -->
 <div align="center" style="margin-top: 20px;">
