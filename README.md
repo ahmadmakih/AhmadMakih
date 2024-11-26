@@ -30,8 +30,9 @@ My commitment to excellence and attention to detail fuel my ability to turn idea
 
 ## ⚡ Skills 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <!-- Bagian Kiri -->
+  <div align="left" style="flex: 1; min-width: 300px;">
     <a href="#"><img src="https://img.shields.io/badge/-ReactJS-%2361DAFB?style=badge&logo=react&logoColor=000000&labelColor=%2361DAFB&color=%23F7F7F7" alt="ReactJS"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Redux-%23764ABC?style=badge&logo=redux&logoColor=FFFFFF&labelColor=%23764ABC&color=%23F7F7F7" alt="Redux"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Vue.js-%234FC08D?style=badge&logo=vue.js&logoColor=FFFFFF&labelColor=%234FC08D&color=%23F7F7F7" alt="Vue.js"></a>
@@ -39,7 +40,9 @@ My commitment to excellence and attention to detail fuel my ability to turn idea
     <a href="#"><img src="https://img.shields.io/badge/-Next.js-%23000000?style=badge&logo=next.js&logoColor=FFFFFF&labelColor=%23000000&color=%23F7F7F7" alt="Next.js"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Flutter-%2302569B?style=badge&logo=flutter&logoColor=FFFFFF&labelColor=%2302569B&color=%23F7F7F7" alt="Flutter"></a>
   </div>
-  <div>
+  
+  <!-- Bagian Kanan -->
+  <div align="right" style="flex: 1; min-width: 300px;">
     <a href="#"><img src="https://img.shields.io/badge/-Nest.js-%23E0234E?style=badge&logo=nestjs&logoColor=FFFFFF&labelColor=%23E0234E&color=%23F7F7F7" alt="Nest.js"></a>
     <a href="#"><img src="https://img.shields.io/badge/-CodeIgniter-%23EF4223?style=badge&logo=codeigniter&logoColor=FFFFFF&labelColor=%23EF4223&color=%23F7F7F7" alt="CodeIgniter"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Laravel-%23FF2D20?style=badge&logo=laravel&logoColor=FFFFFF&labelColor=%23FF2D20&color=%23F7F7F7" alt="Laravel"></a>
@@ -48,7 +51,9 @@ My commitment to excellence and attention to detail fuel my ability to turn idea
     <a href="#"><img src="https://img.shields.io/badge/-Golang-%2300ADD8?style=badge&logo=go&logoColor=FFFFFF&labelColor=%2300ADD8&color=%23F7F7F7" alt="Golang"></a>
   </div>
 </div>
-<div style="text-align: center; margin-top: 10px;">
+
+<!-- Bagian Tengah -->
+<div align="center" style="margin-top: 20px;">
   <a href="#"><img src="https://img.shields.io/badge/-Firebase-%23FFCA28?style=badge&logo=firebase&logoColor=000000&labelColor=%23FFCA28&color=%23F7F7F7" alt="Firebase"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Vite-%23646CFF?style=badge&logo=vite&logoColor=FFFFFF&labelColor=%23646CFF&color=%23F7F7F7" alt="Vite"></a>
   <a href="#"><img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=badge&logo=mongodb&logoColor=FFFFFF&labelColor=%2347A248&color=%23F7F7F7" alt="MongoDB"></a>
@@ -57,6 +62,7 @@ My commitment to excellence and attention to detail fuel my ability to turn idea
   <a href="#"><img src="https://img.shields.io/badge/-Nginx-%23009639?style=badge&logo=nginx&logoColor=FFFFFF&labelColor=%23009639&color=%23F7F7F7" alt="Nginx"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Jira-%230052CC?style=badge&logo=jira&logoColor=FFFFFF&labelColor=%230052CC&color=%23F7F7F7" alt="Jira"></a>
 </div>
+
 
 
 
