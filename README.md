@@ -52,7 +52,7 @@ My commitment to excellence and attention to detail fuel my ability to turn idea
 </div>
 </div>
 </div>
-<div>
+<div align="center">
 <a href="#"><img src="https://img.shields.io/badge/-Firebase-%23FFCA28?style=badge&logo=firebase&logoColor=000000&labelColor=%23FFCA28&color=%23F7F7F7" alt="Firebase"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Vite-%23646CFF?style=badge&logo=vite&logoColor=FFFFFF&labelColor=%23646CFF&color=%23F7F7F7" alt="Vite"></a>
 <a href="#"><img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=badge&logo=mongodb&logoColor=FFFFFF&labelColor=%2347A248&color=%23F7F7F7" alt="MongoDB"></a>
