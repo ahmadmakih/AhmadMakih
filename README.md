@@ -46,18 +46,15 @@ My commitment to excellence and attention to detail fuel my ability to turn idea
   </div>
 </div>
 <p align="right">
-
 <p>
 
-<p align="center"> 
-   <div align="right" >
+<p align="right"> 
 -   <a href="#"><img src="https://img.shields.io/badge/-Nest.js-%23E0234E?style=badge&logo=nestjs&logoColor=FFFFFF&labelColor=%23E0234E&color=%23F7F7F7" alt="Nest.js"></a>
 -   <a href="#"><img src="https://img.shields.io/badge/-CodeIgniter-%23EF4223?style=badge&logo=codeigniter&logoColor=FFFFFF&labelColor=%23EF4223&color=%23F7F7F7" alt="CodeIgniter"></a>
 -   <a href="#"><img src="https://img.shields.io/badge/-Laravel-%23FF2D20?style=badge&logo=laravel&logoColor=FFFFFF&labelColor=%23FF2D20&color=%23F7F7F7" alt="Laravel"></a>
 -   <a href="#"><img src="https://img.shields.io/badge/-Node.js-%23339933?style=badge&logo=node.js&logoColor=FFFFFF&labelColor=%23339933&color=%23F7F7F7" alt="Node.js"></a>
 -   <a href="#"><img src="https://img.shields.io/badge/-Express.js-%23000000?style=badge&logo=express&logoColor=FFFFFF&labelColor=%23000000&color=%23F7F7F7" alt="Express.js"></a>
 -   <a href="#"><img src="https://img.shields.io/badge/-Golang-%2300ADD8?style=badge&logo=go&logoColor=FFFFFF&labelColor=%2300ADD8&color=%23F7F7F7" alt="Golang"></a>
-   </div>
 </p>
 <!-- Bagian Tengah -->
 <div align="center" style="margin-top: 20px;">
