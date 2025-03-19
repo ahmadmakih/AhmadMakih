@@ -31,9 +31,10 @@ My commitment to excellence and attention to detail fuel my ability to turn idea
 ## ⚡ Skills 
 
 <div align="center" style="margin-top: 20px;">
-<a href="#"><img src="https://img.shields.io/badge/-ReactJS-%2361DAFB?style=badge&logo=react&logoColor=000000&labelColor=%2361DAFB&color=%23F7F7F7" alt="ReactJS"></a>
+<a href="#"><img src="https://img.shields.io/badge/-ReactJS-%2361DAFB?style=badge&logo=react&logoColor=000000&labelColor=%2361DAFB&color=%23F7F7F7" alt="React.js"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Redux-%23764ABC?style=badge&logo=redux&logoColor=FFFFFF&labelColor=%23764ABC&color=%23F7F7F7" alt="Redux"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Vue.js-%234FC08D?style=badge&logo=vue.js&logoColor=FFFFFF&labelColor=%234FC08D&color=%23F7F7F7" alt="Vue.js"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Vuex-%234FC08D?style=badge&logo=vue.js&logoColor=FFFFFF&labelColor=%234FC08D&color=%23F7F7F7" alt="Vuex"></a>
 <a href="#"><img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=badge&logo=typescript&logoColor=FFFFFF&labelColor=%23007ACC&color=%23F7F7F7" alt="TypeScript"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Next.js-%23000000?style=badge&logo=next.js&logoColor=FFFFFF&labelColor=%23000000&color=%23F7F7F7" alt="Next.js"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Flutter-%2302569B?style=badge&logo=flutter&logoColor=FFFFFF&labelColor=%2302569B&color=%23F7F7F7" alt="Flutter"></a>
