@@ -31,7 +31,7 @@ My commitment to excellence and attention to detail fuel my ability to turn idea
 ## ⚡ Skills 
 
 <div align="center" style="margin-top: 20px;">
-<a href="#"><img src="https://img.shields.io/badge/-ReactJS-%2361DAFB?style=badge&logo=react&logoColor=000000&labelColor=%2361DAFB&color=%23F7F7F7" alt="React.js"></a>
+<a href="#"><img src="https://img.shields.io/badge/-React.js-%2361DAFB?style=badge&logo=react&logoColor=000000&labelColor=%2361DAFB&color=%23F7F7F7" alt="React.js"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Redux-%23764ABC?style=badge&logo=redux&logoColor=FFFFFF&labelColor=%23764ABC&color=%23F7F7F7" alt="Redux"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Vue.js-%234FC08D?style=badge&logo=vue.js&logoColor=FFFFFF&labelColor=%234FC08D&color=%23F7F7F7" alt="Vue.js"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Vuex-%234FC08D?style=badge&logo=vue.js&logoColor=FFFFFF&labelColor=%234FC08D&color=%23F7F7F7" alt="Vuex"></a>
